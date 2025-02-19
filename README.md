@@ -71,18 +71,17 @@ This project analyzes a Portuguese bank's marketing campaign dataset to optimize
   - Special holiday periods
   - Seasonal patterns
 
-## Project Structure
-```text
+ ## Project Structure
+
 project/
-├── data/
-│   ├── raw/          # Original bank marketing dataset
-│   └── processed/    # Cleaned and processed data
-├── notebooks/        # Jupyter notebooks for analysis
-├── scripts/          # Python and SQL scripts
-├── visualization/    # Tableau workbooks
-└── results/          # Analysis outputs and model results
-
-
+- data/
+  - raw/          # Original bank marketing dataset
+  - processed/    # Cleaned and processed data
+- notebooks/      # Jupyter notebooks for analysis
+- scripts/        # Python and SQL scripts
+- visualization/  # Tableau workbooks
+- results/        # Analysis outputs and model results
+- 
 ## Analysis Results
 
 ### 1. Machine Learning Performance
